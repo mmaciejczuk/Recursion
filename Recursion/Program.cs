@@ -18,6 +18,7 @@ namespace Recursion
             Console.WriteLine($"Power of 5 to 4 is : {result2}");
             Console.ReadKey();
 
+            Node nodeOne = new Node();            
         }
     }
 }
